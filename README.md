@@ -37,7 +37,8 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
-    - As the age of financial technology continues to evolve and experience disruption JP Morgan keeps its clients and finance at the forefront of business.  JPM Coin reduces the typical settlement time when one client sends money to another over the blockchain instantaneously redeeming the equivalent amount of U.S. dollars. [3]
+    - As the age of financial technology continues to evolve and experience disruption JP Morgan keeps its clients and finance at the forefront of business.  JPM Coin reduces the typical settlement time when one client sends money to another over the blockchain instantaneously redeeming the equivalent amount of U.S. dollars. [2]
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -81,21 +82,21 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Resources
 
-* [1] https://www.bitcoinmarketjournal.com/jpm-coin/
+- [1] https://www.bitcoinmarketjournal.com/jpm-coin/
 
-* [2] https://www.jpmorgan.com/global/news/digital-coin-payments
+- [2] https://www.jpmorgan.com/global/news/digital-coin-payments
 
-* [3] https://www.jpmorgan.com/global/news/digital-coin-payments
+- [3] Source3
 
-* [4] Source4
+- [4] Source4
 
-* [5] Source5
+- [5] Source5
 
-* [6] Source6
+- [6] Source6
 
-* [7] Source7
+- [7] Source7
 
-* [8] Source8
+- [8] Source8
 
 ---
 
