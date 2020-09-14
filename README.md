@@ -16,7 +16,7 @@
 
 ## Overview and Origin
 
-* J.P. Morgan's JPM Coin 
+* J.P. Morgan's JPM Coin built on blockchain technology.
 
 * JPM Coin was announced February 14, 2019 [1]
 
@@ -32,6 +32,7 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
+    - As the age of financial technology continues to evolve and experience disruption JP Morgan keeps its clients and finance at the forefront of business.  JPM Coin reduces the typical settlement time when one client sends money to another over the blockchain instantaneously redeeming the equivalent amount of U.S. dollars. [3]
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -78,7 +79,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * [2] https://www.jpmorgan.com/global/news/digital-coin-payments
 
-* [3] Source3
+* [3] https://www.jpmorgan.com/global/news/digital-coin-payments
 
 * [4] Source4
 
