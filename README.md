@@ -20,11 +20,11 @@
     - J.P. Morgan's JPM Coin built on blockchain technology.
 
 * When was the company incorporated?
-    - JPM Coin was announced February 14, 2019 [1]
+    - JPM Coin was announced February 14, 2019[1]
 
 * Who are the founders of the company or project?
     - Jamie Dimon, Chairman and Chief Executive Office
-    - Umar Farooq, head of Digital Treasury Services and Blockchain [2]
+    - Umar Farooq, head of Digital Treasury Services and Blockchain[2]
 
 * How did the idea for the company (or project) come about?
     - The project of JPM Coin came from blockchain technology and the need to stay competitive.
@@ -37,11 +37,14 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
-    - As the age of financial technology continues to evolve and experience disruption JP Morgan keeps its clients and finance at the forefront of business.  Exchanging value, such as money, between parties over blockchain requires digital currency, so JPM Coin was created.  JPM Coin reduces the typical settlement time when one client sends money to another over the blockchain instantaneously redeeming the equivalent amount of U.S. dollars. [2]
+    - As the age of financial technology continues to evolve and experience disruption J.P. Morgan keeps its clients and finance at the forefront of business.  Exchanging value, such as money, between parties over blockchain requires digital currency, so JPM Coin was created allowing the typical settlement time when one client sends money to another over the blockchain instantaneously redeeming the equivalent amount of U.S. dollars.[2]
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-    - .
+    - Initial customers are institutions passing J.P. Morgan Know Your Customer (KYC) standards process.[2]
+    - While the JPM Coin technology is currently only available to a few business instituations of J.P. Morgan during its testing phase, Umar Farooq is known to have mentioned "the cost-savings and efficiency benefits would extend to the end customers of our instituational clients."[3]  This sample size of J.P. Morgan's experiment contains around 27 million accounts.[4]
+    - Competitive advantages:
+        - . 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -85,9 +88,9 @@ What solution does this company offer that their competitors do not or cannot of
 
 - [2] https://www.jpmorgan.com/global/news/digital-coin-payments
 
-- [3] Source3
+- [3] https://www.bitcoinmarketjournal.com/jpm-coin/
 
-- [4] Source4
+- [4] https://hackernoon.com/3-reasons-why-jpm-coin-by-jpmorgan-is-awesome-for-blockchain-adoption-6751b8451980
 
 - [5] Source5
 
