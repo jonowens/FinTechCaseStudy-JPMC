@@ -42,9 +42,11 @@
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
     - Initial customers are institutions passing J.P. Morgan Know Your Customer (KYC) standards process.[2]
-    - While the JPM Coin technology is currently only available to a few business instituations of J.P. Morgan during its testing phase, Umar Farooq is known to have mentioned "the cost-savings and efficiency benefits would extend to the end customers of our instituational clients."[3]  This sample size of J.P. Morgan's experiment contains around 27 million accounts.[4]
+    - While the JPM Coin technology is currently only available to a few business instituations of J.P. Morgan during its testing phase in 2019, Umar Farooq is known to have mentioned in 2018 "the cost-savings and efficiency benefits would extend to the end customers of our instituational clients."[3]  This sample size of J.P. Morgan's experiment contains around 27 million accounts[4] allowing for partners of J.P. Morgan and competitors to find the results of the experiment invaluable.
     - Competitive advantages:
-        - . 
+        - $2.6 trillion balance sheet, the largest U.S bank
+        - Company owned "Blockchain Center of Excellence" project leading financial innovation
+        - Quorum, J.P. Morgan's blockchain technology forked from Ethereum
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
