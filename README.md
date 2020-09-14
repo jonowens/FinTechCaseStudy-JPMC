@@ -16,13 +16,18 @@
 
 ## Overview and Origin
 
-* J.P. Morgan's JPM Coin built on blockchain technology.
+* Name of company and/or project
+    - J.P. Morgan's JPM Coin built on blockchain technology.
 
-* JPM Coin was announced February 14, 2019 [1]
+* When was the company incorporated?
+    - JPM Coin was announced February 14, 2019 [1]
 
-* Umar Farooq, head of Digital Treasury Services and Blockchain [2]
+* Who are the founders of the company or project?
+    - Jamie Dimon, Chairman and Chief Executive Office
+    - Umar Farooq, head of Digital Treasury Services and Blockchain [2]
 
-* The project of JPM Coin came from blockchain technology and the need to stay competitive.
+* How did the idea for the company (or project) come about?
+    - The project of JPM Coin came from blockchain technology and the need to stay competitive.
 
 * How is the company funded? How much funding have they received?
     - The project is funded by its own bank.
@@ -36,6 +41,7 @@
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+    - .
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
