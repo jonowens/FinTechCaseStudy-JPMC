@@ -22,9 +22,10 @@
 
 * Umar Farooq, head of Digital Treasury Services and Blockchain [2]
 
-* How did the idea for the company (or project) come about?
+* The project of JPM Coin came from blockchain technology and the need to stay competitive.
 
 * How is the company funded? How much funding have they received?
+    - The project is funded by its own bank.
 
 ---
 
@@ -77,15 +78,17 @@ What solution does this company offer that their competitors do not or cannot of
 
 * [2] https://www.jpmorgan.com/global/news/digital-coin-payments
 
-* Source4
+* [3] Source3
 
-* Source5
+* [4] Source4
 
-* Source6
+* [5] Source5
 
-* Source7
+* [6] Source6
 
-* Source8
+* [7] Source7
+
+* [8] Source8
 
 ---
 
