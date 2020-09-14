@@ -16,11 +16,11 @@
 
 ## Overview and Origin
 
-* Company name?
+* J.P. Morgan's JPM Coin 
 
-* When was the company incorporated?
+* JPM Coin was announced February 14, 2019 [1]
 
-* Who are the founders of the company?
+* Umar Farooq, head of Digital Treasury Services and Blockchain [2]
 
 * How did the idea for the company (or project) come about?
 
@@ -73,11 +73,9 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Resources
 
-* https://impact.jpmorganchase.com/about/our-history
+* [1] https://www.bitcoinmarketjournal.com/jpm-coin/
 
-* https://www.investopedia.com/betterment-vs-charles-schwab-intelligent-portfolios-which-is-right-for-you-4693445
-
-* https://www.youtube.com/watch?v=Vy2aQGOV3IA&list=PLSiLSqyUGDCs-mbKZuMcABg-9AQIvUgGi&index=1
+* [2] https://www.jpmorgan.com/global/news/digital-coin-payments
 
 * Source4
 
