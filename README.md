@@ -46,9 +46,13 @@ What solution does this company offer that their competitors do not or cannot of
     - Competitive advantages:
         - $2.6 trillion balance sheet, the largest U.S bank
         - Company owned "Blockchain Center of Excellence" project leading financial innovation
-        - Quorum, J.P. Morgan's blockchain technology forked from Ethereum
+        - Quorum, J.P. Morgan's blockchain technology
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+    - Technologies used with JPM Coin:
+        - Blockchain, facilitates the transfer of payments between institutional clients[5]
+        - Quorum, used to run the JPM Coin blockchain technology requiring permissions and users approved by J.P. Morgan[6]
+        - jQuery, Modernizr, Dyn, Adobe Experience Manager
 
 ---
 
@@ -94,9 +98,9 @@ What solution does this company offer that their competitors do not or cannot of
 
 - [4] https://hackernoon.com/3-reasons-why-jpm-coin-by-jpmorgan-is-awesome-for-blockchain-adoption-6751b8451980
 
-- [5] Source5
+- [5] https://www.investopedia.com/jpmorgan-to-launch-jpm-coin-4587182#:~:text=JPM%20Coin%20uses%20blockchain%20technology,fiat%20currency%20held%20by%20JPMorgan.
 
-- [6] Source6
+- [6] https://www.forbes.com/sites/madhvimavadiya/2019/02/17/jp-morgans-cryptocurrency-jpm-coin-is-not-a-cryptocurrency/#433786a921d1
 
 - [7] Source7
 
