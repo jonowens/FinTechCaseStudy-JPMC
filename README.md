@@ -20,7 +20,7 @@
     - J.P. Morgan's JPM Coin built on blockchain technology.
 
 * When was the company incorporated?
-    - JPM Coin was announced February 14, 2019[1]
+    - J.P. Morgan founded in 1872 with its JPM Coin announced February 14, 2019[1]
 
 * Who are the founders of the company or project?
     - Jamie Dimon, Chairman and Chief Executive Office
@@ -70,10 +70,10 @@ What solution does this company offer that their competitors do not or cannot of
     - 5th: blockchain scaling, uses multiple computers to validate transactions and divides the process instead of on one machine.[8]
 
 * What are the other major companies in this domain?
-    - Ripple[9]
-    - UBS
-    - TD Bank [10]
-    - Facebook's Libra [11]
+    - Ripple's XRP[9]
+    - Bitcoin[10]
+    - Facebook's Libra[11]
+    - Ethereum[12]
 
 ---
 
@@ -83,8 +83,16 @@ What solution does this company offer that their competitors do not or cannot of
     - Other major institutions are realizing the potential of blockchain and value-backed digital currency in testing by J.P. Morgan and are beginning a move to explore the technology for their own benefits.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+    - Metrics measuring success:
+        - Profit and Loss
+        - Asset value (growth or reduction)
+        - Liquidity risk
+        - Default risk
+    - Performance:
+        - It is too early to tell as JPM Coin is still in a testing phase.
 
-* How is your company performing relative to competitors in the same domain?
+* How is your company (project) performing relative to competitors in the same domain?
+    - 
 
 ---
 
@@ -120,11 +128,11 @@ What solution does this company offer that their competitors do not or cannot of
 
 - [9] https://en.cryptonomist.ch/2019/02/20/ripple-vs-jpm-coin-2/
 
-- [10] https://www.americanbanker.com/news/how-will-rivals-respond-to-jpm-coin
+- [10] https://www.bitcoin.com/
 
 - [11] https://libra.org/en-US/
 
-- [12] 
+- [12] https://ethereum.org/en/
 
 ---
 
