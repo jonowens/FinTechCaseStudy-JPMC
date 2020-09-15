@@ -92,7 +92,7 @@ What solution does this company offer that their competitors do not or cannot of
         - It is too early to tell as JPM Coin is still in a testing phase.
 
 * How is your company (project) performing relative to competitors in the same domain?
-    - 
+    - The JPM Coin project has little current performance data as it is still in a testing phase and for a small private number of institutions.
 
 ---
 
