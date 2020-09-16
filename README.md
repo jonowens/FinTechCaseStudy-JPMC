@@ -1,4 +1,6 @@
-# JP Morgan: Growing Digital Currency
+# JP Morgan: Coding a Path to a New Digital Currency
+
+![J.P. Morgan](./images/JPMorganLogo.png)[1]
 
 ---
 
@@ -20,11 +22,11 @@
     - J.P. Morgan's JPM Coin built on blockchain technology.
 
 * When was the company incorporated?
-    - J.P. Morgan founded in 1872 with its JPM Coin announced February 14, 2019[1]
+    - J.P. Morgan founded in 1872 with its JPM Coin announced February 14, 2019[2]
 
 * Who are the founders of the company or project?
     - Jamie Dimon, Chairman and Chief Executive Office
-    - Umar Farooq, head of Digital Treasury Services and Blockchain[2]
+    - Umar Farooq, head of Digital Treasury Services and Blockchain[1]
 
 * How did the idea for the company (or project) come about?
     - The project of JPM Coin came from blockchain technology and the need to stay competitive.
@@ -37,12 +39,12 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
-    - As the age of financial technology continues to evolve and experience disruption J.P. Morgan keeps its clients and finance at the forefront of business.  Exchanging value, such as money, between parties over blockchain requires digital currency, so JPM Coin was created allowing the typical settlement time when one client sends money to another over the blockchain instantaneously redeeming the equivalent amount of U.S. dollars.[2]
+    - As the age of financial technology continues to evolve and experience disruption J.P. Morgan keeps its clients and finance at the forefront of business.  Exchanging value, such as money, between parties over blockchain requires digital currency, so JPM Coin was created allowing the typical settlement time when one client sends money to another over the blockchain instantaneously redeeming the equivalent amount of U.S. dollars.[1]
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-    - Initial customers are institutions passing J.P. Morgan Know Your Customer (KYC) standards process.[2]
-    - While the JPM Coin technology is currently only available to a few business instituations of J.P. Morgan during its testing phase in 2019, Umar Farooq is known to have mentioned in 2018 "the cost-savings and efficiency benefits would extend to the end customers of our instituational clients."[3]  This sample size of J.P. Morgan's experiment contains around 27 million accounts[4] allowing for partners of J.P. Morgan and competitors to find the results of the experiment invaluable.  There are ". . . estimates that global blockchain technology market size will be worth over US$25 billion by 2025."[5]
+    - Initial customers are institutions passing J.P. Morgan Know Your Customer (KYC) standards process.[1]
+    - While the JPM Coin technology is currently only available to a few business instituations of J.P. Morgan during its testing phase in 2019, Umar Farooq is known to have mentioned in 2018 "the cost-savings and efficiency benefits would extend to the end customers of our instituational clients."[1]  This sample size of J.P. Morgan's experiment contains around 27 million accounts[4] allowing for partners of J.P. Morgan and competitors to find the results of the experiment invaluable.  There are ". . . estimates that global blockchain technology market size will be worth over US$25 billion by 2025."[5]
     - Competitive advantages:
         - $2.6 trillion balance sheet, the largest U.S bank
         - Company owned "Blockchain Center of Excellence" project leading financial innovation
@@ -60,7 +62,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What domain of the financial industry is the company in?
     - Blockchain and cryptocurrancy domain
-        - "JPM Coin is a digital coin designed to make instantaneous payments using blockchain technology. Exchanging value, such as money, between different parties over a blockchain requires a digital currency, so we created the JPM Coin" says Umar Farooq, head of Digital Treasury Services and Blockchain at J.P. Morgan.[2]
+        - "JPM Coin is a digital coin designed to make instantaneous payments using blockchain technology. Exchanging value, such as money, between different parties over a blockchain requires a digital currency, so we created the JPM Coin" says Umar Farooq, head of Digital Treasury Services and Blockchain at J.P. Morgan.[1]
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
     - 1st: bitcoin, a digital currency experiment
@@ -118,9 +120,9 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Resources
 
-- [1] https://www.bitcoinmarketjournal.com/jpm-coin/
+- [1] https://www.jpmorgan.com/global/news/digital-coin-payments
 
-- [2] https://www.jpmorgan.com/global/news/digital-coin-payments
+- [2] https://www.bitcoinmarketjournal.com/jpm-coin/
 
 - [3] https://www.bitcoinmarketjournal.com/jpm-coin/
 
