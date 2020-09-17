@@ -19,20 +19,20 @@
 ## Overview and Origin
 
 * Name of company and/or project
-    - J.P. Morgan's JPM Coin built on blockchain technology.
+    - J.P. Morgan's JPM Coin, built on blockchain technology.
 
 * When was the company incorporated?
-    - J.P. Morgan founded in 1872 with its JPM Coin announced February 14, 2019[2]
+    - J.P. Morgan is founded in 1872 with its JPM Coin announced February 14, 2019.[2]
 
 * Who are the founders of the company or project?
     - Jamie Dimon, Chairman and Chief Executive Office
     - Umar Farooq, head of Digital Treasury Services and Blockchain[1]
 
 * How did the idea for the company (or project) come about?
-    - The project of JPM Coin came from blockchain technology and the need to stay competitive.
+    - The JPM Coin project came from the bank's Quorum blockchain technology and the need for payment processing of currency to stay competitive.
 
 * How is the company funded? How much funding have they received?
-    - The project is funded by its own bank.
+    - The JPM Coin project is funded by JPMorgan Chase & Co, the parent organization of J.P. Morgan, and its own bank with little to no public access to the financial funding already incurred by the JPM Coin project.
 
 ---
 
