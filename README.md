@@ -59,15 +59,16 @@
 ## Landscape
 
 * What domain of the financial industry is the company in?
-    - Blockchain and cryptocurrancy domain
-        - "JPM Coin is a digital coin designed to make instantaneous payments using blockchain technology. Exchanging value, such as money, between different parties over a blockchain requires a digital currency, so we created the JPM Coin" says Umar Farooq, head of Digital Treasury Services and Blockchain at J.P. Morgan.[1]
+    - The primary domain JPM Coin belongs to is Blockchain and cryptocurrancy domain.  "JPM Coin is a digital coin designed to make instantaneous payments using blockchain technology. Exchanging value, such as money, between different parties over a blockchain requires a digital currency, so we created the JPM Coin" says Umar Farooq, head of Digital Treasury Services and Blockchain at J.P. Morgan.[1]
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
-    - 1st: bitcoin, a digital currency experiment
-    - 2nd: blockchain, the enderlying technology of bitcoin that can be used separate from currency for other needs
-    - 3rd: "smart contracts", Ethereum based second-generation blockchain system allowing for financial systems to be represented in blockchains
-    - 4th: "proof of stake", allows a person to mine and validate transactions based on the number of coins held
-    - 5th: blockchain scaling, uses multiple computers to validate transactions and divides the process instead of on one machine.[8]
+    1. Bitcoin, a digital currency experiment
+    2. Blockchain, the underlying technology of bitcoin that can be used separately from currency for other needs
+    3. "Smart Contracts", Ethereum based second-generation blockchain system allowing for financial systems to be represented in blockchains
+    4. "Proof of Stake", allows a person to mine and validate transactions based on the number of coins held
+    5. Blockchain Scaling, uses multiple computers to validate transactions and divides the process instead of on one machine.
+    
+    [8]
 
 * What are the other major companies in this domain?
     - Ripple's XRP[9]
