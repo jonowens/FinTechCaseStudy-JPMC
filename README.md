@@ -99,21 +99,21 @@
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-    - Recommendation for J.P. Morgan to incorporate its blockchain technology, Quorum, and JPL Coin directly into the consumer market producing a universal dollar-backed currency recognized by banks allowing consumers to use the single currency globally with realtime exchange.
+* If you were to advise the company, what products or services would you suggest they offer?
+    - As a recommendation for J.P. Morgan, the origanization must incorporate its blockchain technology, Quorum, and JPL Coin directly into the consumer market producing a universal dollar-backed currency recognized by banks allowing consumers to use the single currency globally with realtime exchange.
 
 * Why do you think that offering this product or service would benefit the company?
-    - Providing this service to consumers allows for greater ease and increase of opportunities for consumers to capitalize on goods and services globally without the need to exchange currency.  This too allows for a foreseeable decrease in default risk for consumers.
+    - Providing this service to consumers allows for greater ease and increase of opportunities for consumers to capitalize on goods and services globally without the need to exchange currency.  This too may allow for a foreseeable decrease in default risk for consumers.
 
 * What technologies would this additional product or service utilize?
     - Quorum blockchain
     - JPM Coin
     - RFID chips for tangible products
     - Mobile connectivity
-    - "Smart contracts"
+    - "Smart Contracts"
 
 * Why are these technologies appropriate for your solution?
-    - The following technologies allow for the service to be maintained on a single blockchain technology, has a universal form of payment, is scalable, is capable of being used for all goods and services available for purchase, and allows for automation of general ledger transactions putting time back into the hands of consumers.
+    - The following technologies are important and allow for the service to be maintained on a single blockchain technology with a universal form of payment and scalability.  In addition to this is the opportunity and capability of being used for all goods and services available for purchase and allows for automation of general ledger transactions putting time back into the hands of consumers.
 
 ---
 
