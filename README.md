@@ -80,20 +80,20 @@
 
 ## Results
 
-* What has been the business impact of this company (project) so far?
-    - Other major institutions are realizing the potential of blockchain and value-backed digital currency in testing by J.P. Morgan and are beginning a move to explore the technology for their own benefits.
+* What has been the business impact of this company or project so far?
+    - The other large bank institutions are realizing the potential of blockchain and value-backed digital currency from testing by J.P. Morgan, so these instituations are beginning a move to explore the technology for their own benefits.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
     - Metrics measuring success:
         - Profit and Loss
-        - Asset value (growth or reduction)
+        - Asset value (growth or reduction year over year)
         - Liquidity risk
         - Default risk
     - Performance:
-        - It is too early to tell as JPM Coin is still in a testing phase.
+        - It is still too early to tell how JPM Coin is performing as the technology and project is still in a testing phase.
 
-* How is your company (project) performing relative to competitors in the same domain?
-    - The JPM Coin project has little current performance data as it is still in a testing phase and for a small private number of institutions.
+* How is your company or project performing relative to competitors in the same domain?
+    - The JPM Coin project has little current performance data as it is still in a testing phase and only available for a small private number of institutions.
 
 ---
 
