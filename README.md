@@ -153,4 +153,5 @@ Project is: _Completed_
 
 ## Contributors
 
-Jonathan Owens, jonathan.owens@gmail.com
+* Jonathan Owens
+* LinkedIn: www.linkedin.com/in/jonowens
